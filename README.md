@@ -27,8 +27,9 @@
 <!--Intro end-->
 
 <!--Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeripiatek&show_icons=true&theme=merko)
-
+<div class="display: flex; align-items: center; justify-content: center;">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopiatek&show_icons=true&theme=merko)
+</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
