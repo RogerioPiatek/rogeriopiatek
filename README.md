@@ -26,6 +26,8 @@
 - 📫 Feel free to reach me out!
 <!--Intro end-->
 
+<!--Stats-->
+![Rogério Github Status](https://vercel.com/rogeriopiatek/github-readme-stats/api?username=rogeriopiatek&show_icons=true&theme=transparent)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
