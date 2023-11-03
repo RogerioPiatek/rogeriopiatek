@@ -27,7 +27,7 @@
 <!--Intro end-->
 
 <!--Stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopiatek)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeripiatek&show_icons=true&theme=merko)
 
 
 <!--h1 without bottom border-->
