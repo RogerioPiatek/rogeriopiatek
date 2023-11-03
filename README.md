@@ -27,9 +27,12 @@
 <!--Intro end-->
 
 <!--Stats-->
-<div class="display: flex; align-items: center; justify-content: center;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopiatek&show_icons=true&theme=merko)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriopiatek" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogeriopiatek&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
