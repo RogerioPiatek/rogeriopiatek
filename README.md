@@ -17,7 +17,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, NextJS NodeJS, MongoDB, PostgreSQL**
+- 🚀 I'm learning: **React, NextJS, NodeJS, MongoDB, PostgreSQL**
+
+- 🔭 I’m currently working on some **projects related with my learning**
 
 - 💬 Let's discuss about **react, nextjs, nodejs**
 
