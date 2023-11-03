@@ -27,7 +27,10 @@
 <!--Intro end-->
 
 <!--Stats-->
-![Rogério Github Status](https://vercel.com/rogeriopiatek/github-readme-stats/api?username=rogeriopiatek&show_icons=true&theme=transparent)
+<a>
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-zeta-opal-38.vercel.app)/api?username=rogeriopiatek" />
+</a>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
