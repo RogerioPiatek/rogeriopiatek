@@ -27,9 +27,7 @@
 <!--Intro end-->
 
 <!--Stats-->
-<a>
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-zeta-opal-38.vercel.app)/api?username=rogeriopiatek" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopiatek)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--h1 without bottom border-->
