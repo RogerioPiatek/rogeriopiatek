@@ -17,11 +17,11 @@
 </div>
 
 <!--Intro start-->
-- 🚀 I'm learning **React, NextJS, NodeJS, MongoDB, PostgreSQL**
+- 🚀 I'm learning **React, NextJS, NodeJS, NestJS, and PostgreSQL**
 
 - 🔭 I’m currently working on some **projects related with my learning**
 
-- 💬 Let's discuss about **react, nextjs, nodejs**
+- 💬 Let's discuss about **React, NextJS, NestJS and any bleeding-edge innovations!**
 
 - 📫 Feel free to reach me out!
 <!--Intro end-->
