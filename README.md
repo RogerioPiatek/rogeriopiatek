@@ -37,13 +37,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,react,nextjs,nodejs,ts,git,github,html,css,js,express,mongodb,postgres,postman,tailwind,vscode,discord&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,react,nextjs,tailwind,nodejs,ts,nestjs,git,github,html,css,js,express,postgres,postman&perline=15&theme=dark" />
   </a>
 </p>
 
