@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
 
@@ -28,10 +28,10 @@
 
 <!--Stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriopiatek&theme=transparent" />
+  <img width="49%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rogeriopiatek&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogeriopiatek&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img width="41%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogeriopiatek&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <!--h1 without bottom border-->
